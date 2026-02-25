@@ -1,0 +1,1 @@
+Smart Air Monitoring System is an AI-based system used to monitor air pollution levels and provide real-time analysis using sensors and machine learning.
